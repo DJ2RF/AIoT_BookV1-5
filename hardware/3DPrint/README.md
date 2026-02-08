@@ -1,0 +1,1 @@
+# You should have FreeCad 0.20

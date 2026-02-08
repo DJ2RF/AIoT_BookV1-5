@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bcb8021c-9e98-4e38-b2b6-5e5d5a50705a")
+	(paper "A4")
+	(title_block
+		(title "03_Sensors – T/RH + I2C")
+		(date "2026-01-13")
+		(rev "A")
+		(company "Nerd-Verlag F. Riedhammer (c) 2026")
+	)
+	(lib_symbols)
+)

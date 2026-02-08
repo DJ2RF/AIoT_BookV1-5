@@ -1,0 +1,13 @@
+** Drc report for IoT-Werkstatt_Band1.kicad_pcb **
+** Created on 2026-01-12T12:20:08+0100 **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint "XCVR_ESP32-S3-MINI-1U-N8" stimmt nicht mit Kopie in Bibliothek "ESP32-S3-MINI-1U-N8" überein.
+    Lokale Überschreibung; warning
+    @(185,1500 mm, 85,5000 mm): Footprint U2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

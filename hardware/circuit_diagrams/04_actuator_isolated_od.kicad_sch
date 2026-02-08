@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "99c70ccc-7d28-4d5f-8682-41ae5f10f644")
+	(paper "A4")
+	(title_block
+		(title "04_Actuator – Isolated Open-Drain")
+		(date "2026-01-13")
+		(rev "A")
+		(company "Nerd-Verlag F. Riedhammer (c) 2026")
+	)
+	(lib_symbols)
+)

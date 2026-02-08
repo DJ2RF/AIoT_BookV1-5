@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d888b1ef-12c1-4531-a744-8f59ea757aa6")
+	(paper "A4")
+	(title_block
+		(title "05_Debug_Test – Headers")
+		(date "2026-01-13")
+		(rev "A")
+		(company "Nerd-Verlag F. Riedhammer (c) 2026")
+	)
+	(lib_symbols)
+)

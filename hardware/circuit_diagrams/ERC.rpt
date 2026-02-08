@@ -1,0 +1,19 @@
+ERC-Bericht (2026-01-09T07:08:08+0100, UTF8-kodiert)
+
+***** Schaltplan /
+
+***** Schaltplan /01_Power/
+
+***** Schaltplan /02_MCU/
+[multiple_net_names]: GND_LOGIC und GND1 sind jeweils mit dem gleichen Teil verbunden. GND_LOGIC wird in der Netzliste benutzt
+    ; warning
+    @(3800 mils, 900 mils): Globaler Bezeichner "GND_LOGIC"
+    @(6300 mils, 4250 mils): Symbol U2 Versteckter Pin 42 [GND1, Power input, Line]
+
+***** Schaltplan /03_Sensors/
+
+***** Schaltplan /04_Actuator_Isolated_OD/
+
+***** Schaltplan /05_Debug_Test/
+
+ ** ERC-Meldungen: 1  Fehler 0  Warnungen 1

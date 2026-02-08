@@ -1,0 +1,215 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6b5f7037-09a3-467a-b524-506cbf6e37fa")
+	(paper "A4")
+	(title_block
+		(title "IoT-Werkstatt Band 1 –Power und MCU  (KiCad 9.x)")
+		(date "2026-01-13")
+		(rev "A")
+		(company "Nerd-Verlag F. Riedhammer (c) 2026")
+	)
+	(lib_symbols)
+	(sheet
+		(at 20 60)
+		(size 90 28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04b81ee5-3cfa-4b4c-a653-5e5278f851c0")
+		(property "Sheetname" "02_MCU"
+			(at 59.69 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "02_mcu.kicad_sch"
+			(at 59.69 56.642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "IoT-Werkstatt_Band1"
+				(path "/6b5f7037-09a3-467a-b524-506cbf6e37fa"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20 20)
+		(size 90 28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0607031c-8f03-4ead-b64e-0f99b49184ea")
+		(property "Sheetname" "01_Power"
+			(at 59.182 15.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "01_power.kicad_sch"
+			(at 59.69 17.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "IoT-Werkstatt_Band1"
+				(path "/6b5f7037-09a3-467a-b524-506cbf6e37fa"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120 20)
+		(size 95 40)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "154fab40-953a-4bed-bd3d-d3f57d36d9d1")
+		(property "Sheetname" "04_Actuator_Isolated_OD"
+			(at 164.592 16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "04_actuator_isolated_od.kicad_sch"
+			(at 165.608 18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "IoT-Werkstatt_Band1"
+				(path "/6b5f7037-09a3-467a-b524-506cbf6e37fa"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120 75)
+		(size 95 28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b84bc60a-d071-47b8-9f03-0e1e4435a9da")
+		(property "Sheetname" "05_Debug_Test"
+			(at 166.624 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "05_debug_test.kicad_sch"
+			(at 167.132 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "IoT-Werkstatt_Band1"
+				(path "/6b5f7037-09a3-467a-b524-506cbf6e37fa"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20 100)
+		(size 90 28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6abad54-45d3-4fdb-be3f-515ec43462be")
+		(property "Sheetname" "03_Sensors"
+			(at 61.468 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "03_sensors.kicad_sch"
+			(at 61.976 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "IoT-Werkstatt_Band1"
+				(path "/6b5f7037-09a3-467a-b524-506cbf6e37fa"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
