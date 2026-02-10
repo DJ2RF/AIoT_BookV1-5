@@ -1,6 +1,6 @@
 {
     "idf.currentSetup": "C:\\Users\\Fritz\\esp\\v5.5.2\\esp-idf",
-    "idf.portWin": "COM10",
+    "idf.portWin": "COM9",
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
     ]
