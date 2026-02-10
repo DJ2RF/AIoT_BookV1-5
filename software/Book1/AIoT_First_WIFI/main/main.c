@@ -1,3 +1,21 @@
+/******************************************************************************
+ * AIoT Workshop – Band 1
+ * Example Source Code
+ *
+ * Copyright (c) 2026 Friedrich Riedhammer
+ *
+ * This source code is provided as part of the book
+ * "AIoT Workshop – Band 1".
+ *
+ * Permission is granted to use, modify and compile this code for
+ * educational, research and product development purposes.
+ *
+ * Redistribution of the source code as part of other publications
+ * or commercial training material requires written permission
+ * of the author.
+ *
+ * The software is provided "as is", without warranty of any kind.
+ ******************************************************************************/
 #include <string.h>
 #include <stdlib.h>
 #include <ctype.h>

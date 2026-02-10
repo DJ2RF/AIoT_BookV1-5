@@ -1,11 +1,22 @@
-/* Blink Example
+/******************************************************************************
+ * AIoT Workshop – Band 1
+ * Example Source Code
+ *
+ * Copyright (c) 2026 Friedrich Riedhammer
+ *
+ * This source code is provided as part of the book
+ * "AIoT Workshop – Band 1".
+ *
+ * Permission is granted to use, modify and compile this code for
+ * educational, research and product development purposes.
+ *
+ * Redistribution of the source code as part of other publications
+ * or commercial training material requires written permission
+ * of the author.
+ *
+ * The software is provided "as is", without warranty of any kind.
+ ******************************************************************************/
 
-   This example code is in the Public Domain (or CC0 licensed, at your option.)
-
-   Unless required by applicable law or agreed to in writing, this
-   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-   CONDITIONS OF ANY KIND, either express or implied.
-*/
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
