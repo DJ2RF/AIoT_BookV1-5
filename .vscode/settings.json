@@ -3,5 +3,6 @@
     "idf.portWin": "COM9",
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
-    ]
+    ],
+    "cmake.sourceDirectory": "D:/AIoT_Repo/AIoT_BookV1-5/software/Book1/AIoT_First_WIFI"
 }
