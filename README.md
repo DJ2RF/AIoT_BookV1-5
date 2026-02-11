@@ -1,3 +1,14 @@
+Weitere Tipps zu den Sourcen und zur Installation im Buch
+
+# 📘 AIoT-Werkstatt – Band 1
+
+https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B0GJ18MVC3
+
+
+Hardware- und IoT-Grundlagen mit ESP32, MQTT und OTA
+
+Nerd-Verlag 
+
 ## English at buttom
 
 
