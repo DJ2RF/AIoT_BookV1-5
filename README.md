@@ -1,3 +1,5 @@
+ESP32 / ESP-IDF reference projects from the AIoT Workshop book series covering IoT nodes, MQTT communication, OTA updates and energy-efficient embedded design.
+
 ## Weitere Tipps zu den Sourcen und zur Installation im Buch
 
 # 📘 AIoT-Werkstatt – Band 1
@@ -160,3 +162,17 @@ Use of the provided materials is entirely at the user's own risk.
 Users are solely responsible for verifying, validating, and testing all designs, circuits, software, and manufacturing data before practical use and for ensuring safe operating conditions.
 
 This repository does not constitute a certified reference design, finished product, or safety-approved development platform.
+
+## Keywords
+esp32
+esp-idf
+iot
+aiot
+embedded-systems
+mqtt
+ota-update
+firmware
+deep-sleep
+hardware-design
+pcb
+internet-of-things
