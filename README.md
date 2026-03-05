@@ -165,14 +165,26 @@ This repository does not constitute a certified reference design, finished produ
 
 ## Keywords
 esp32
+
 esp-idf
+
 iot
+
 aiot
+
 embedded-systems
+
 mqtt
+
 ota-update
+
 firmware
+
 deep-sleep
+
 hardware-design
+
 pcb
+
 internet-of-things
+
